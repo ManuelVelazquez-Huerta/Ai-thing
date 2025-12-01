@@ -52,7 +52,7 @@ keras
 
 How to Run the Project
 Make a google collab account 
-Upload the facial_emotion_project.ipynb notebook to Google Colab.
+Upload the face.ipynb notebook to Google Colab.
 Download the dataset from the link above.
 Upload/extract the dataset into Google Drive and mount it in Colab (instructions are inside the notebook).
 Run the cells from top to bottom:
